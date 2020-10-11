@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi!
 
-<!--
-**tekoszi/tekoszi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My Docker hub : https://hub.docker.com/u/tekoszi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Im currently working on
+
+  - Django project
+  - Small scripts
+  - Projects for university
+
+# Technologies i know
+
+* Python/Django
+* Docker
+* Git/GitHub
+* mySQL/SQL
+* HTML/CSS/JS/BOOTSTRAP
+* Rest Api
+* PHP/Symfony/Twig/Sass
+* C#
+* Jira/SNOW
+* SIEM
