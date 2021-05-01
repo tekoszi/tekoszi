@@ -11,7 +11,7 @@
 
 # Technologies i know
 
-* Python/Django/FLask
+* Python/Django/Flask
 * Docker
 * Git/GitHub
 * mySQL/SQL
